@@ -1,0 +1,1259 @@
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\ApplicationInsights.config
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\csc.exe
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\csc.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\csc.rsp
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\csi.exe
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\csi.rsp
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\vbc.exe
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\vbc.rsp
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\EntityFramework.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Owin.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.Helpers.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.Mvc.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.Optimization.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.Razor.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.WebPages.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\WebGrease.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.Helpers.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.Mvc.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.Optimization.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.Razor.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.WebPages.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\EntityFramework.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+c:\users\usuario\documents\visual studio 2017\Projects\PracticaAutenticacion\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\ApplicationInsights.config
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csc.exe
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csc.exe.config
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csc.rsp
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csi.exe
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csi.rsp
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\vbc.exe
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\vbc.rsp
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Owin.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Helpers.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Mvc.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Optimization.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Razor.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\WebGrease.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Helpers.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Mvc.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Optimization.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Razor.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+E:\proyecttoooofallido1\PracticaAutenticacion - copia (2)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\ApplicationInsights.config
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csc.exe
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csc.exe.config
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csc.rsp
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csi.exe
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csi.rsp
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\vbc.exe
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\vbc.rsp
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Owin.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Helpers.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Mvc.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Optimization.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Razor.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\WebGrease.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Helpers.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Mvc.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Optimization.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Razor.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+D:\web proyecto final\PracticaAutenticacion - copia (2)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Owin.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+C:\Users\Usuario\Desktop\PracticaAutenticacion - copia (2)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Owin.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Owin.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+C:\Users\Usuario\Desktop\ProyectoWeb (Hasta funcionalidad Uusario-Moderador)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Owin.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+C:\Users\Usuario\Desktop\ProyectoWeb (usuario-moderador-estrellas)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\ApplicationInsights.config
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\csc.exe
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\csc.exe.config
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\csc.rsp
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\csi.exe
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\csi.rsp
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\vbc.exe
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\vbc.rsp
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\EntityFramework.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Owin.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.Helpers.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.Mvc.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.Optimization.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.Razor.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.WebPages.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\WebGrease.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.Helpers.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.Mvc.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.Optimization.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.Razor.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.WebPages.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\EntityFramework.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+C:\Users\Jhon\Desktop\ProyectoWeb (usuario-moderador-estrellasV5)\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\ApplicationInsights.config
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csc.rsp
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csi.exe
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csi.rsp
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Owin.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Razor.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\WebGrease.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Razor.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+C:\Users\Usuario\Downloads\MuseoVFinal-Final\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\ApplicationInsights.config
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csc.exe
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csc.exe.config
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csc.rsp
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csi.exe
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csi.rsp
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\vbc.exe
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\vbc.rsp
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Owin.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Helpers.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Mvc.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Optimization.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Razor.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\WebGrease.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Helpers.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Mvc.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Optimization.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Razor.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.csprojResolveAssemblyReference.cache
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+D:\web proyecto final-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\ApplicationInsights.config
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csc.exe
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csc.exe.config
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csc.rsp
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csi.exe
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\csi.rsp
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.AppContext.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.Collections.Immutable.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\vbc.exe
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\vbc.exe.config
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\vbc.rsp
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\roslyn\VBCSCompiler.exe.config
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\PracticaAutenticacion.dll.config
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\PracticaAutenticacion.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\PracticaAutenticacion.pdb
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Antlr3.Runtime.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.SqlServer.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.Web.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Web.Infrastructure.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Newtonsoft.Json.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Owin.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Helpers.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Mvc.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Optimization.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Razor.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Razor.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\WebGrease.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Helpers.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Mvc.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Optimization.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.Razor.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Deployment.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\System.Web.WebPages.Razor.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Antlr3.Runtime.pdb
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Newtonsoft.Json.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\EntityFramework.SqlServer.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Google.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.ApplicationInsights.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.WindowsServer.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\Microsoft.AI.Web.xml
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Helpers.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Mvc.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Optimization.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.Razor.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.WebPages.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\EntityFramework.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\EntityFramework.SqlServer.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.csprojResolveAssemblyReference.cache
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.dll
+D:\MUSEO HISTORIA NATURAL-TOUR VIRTUAL\MuseoVFinal-Final\PracticaAutenticacion\obj\Debug\PracticaAutenticacion.pdb

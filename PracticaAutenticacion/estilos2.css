@@ -1,0 +1,291 @@
+/*-----------------------------------------------------------------EVENTOS-----------------------------------------------------------------*/
+.section_Evento{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.img-evento{
+    width: auto;
+    height: auto;
+}
+
+.info_evento{
+    
+    display: inline-block;
+    margin-top: 30px;
+    background: rgba(0,0,0,.5);   
+}
+.izq{
+    display: block;
+    float: left;
+}
+.der{
+    display: block;
+    float:right;
+}
+
+.evento_txt{
+    
+    padding: 10px;   
+    display: block;
+    font-size: 12px;
+    color: white;
+    background:  rgba(112,20,8,0.6);
+   
+}
+
+
+.evento_txt [class^="icon"]{
+    color: #fab919;
+    font-size: 20px;
+}
+.evento_txt_cuerpo{
+    display:none;
+    text-align: justify;
+}
+
+/*------------------------Estilos Responsive------------------------*/
+@media(min-width:520px){
+    .img-evento{
+        width: 50%;
+        height: 50%;
+    }
+    .evento_txt{
+        
+        width: 50%;
+    }
+    .info_evento{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    }
+}
+
+@media(min-width: 1024px){
+    .section_Evento{
+        width: 1000px;
+    }
+    .info_evento{
+        width: 1000px;
+    }
+    .evento_txt_cuerpo{
+        font-size: 18px;
+        display: block;
+    }
+}
+@media(min-width: 1260px){
+  
+    .section_Evento{
+        width: 1200px;
+    }
+    .info_evento{
+    width: 1200px; 
+    }
+}
+
+/*------------------------------------------------------------------------AREAS------------------------------------------------------------------------*/
+.slider_areas{
+    margin-top: 20px;
+    background: white;
+    box-shadow: 0px 4px 3px rgba(0,0,0,.5);
+    
+}
+.section_titulo_areas{
+    font-size: 15px;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    color: #8E1900;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+/*---------------------------PRESENTACION DE LAS AREAS---------------------------*/
+.panel_areas1{
+    margin-top: 20px;
+    
+}
+
+.contenedor_area{
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    -webkit-perspective: 700;
+}
+
+.cromo_area{
+    margin-top: 20px;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: 2s;
+    background: white;
+}
+
+.cromo_area:hover{
+    transform: rotateY(180deg);
+}
+
+.parte{
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    position: absolute;  
+}
+
+.frente{
+    background: white;
+}
+
+.atras{
+    transform: rotateY(180deg);
+    background-color: white;
+}
+
+.img_area{
+    width: 250px;
+    height: 250px;
+}
+
+.area_titulo{
+    width: 100%;
+    position: absolute;
+    margin-top:-200px;
+    background: rgba(0,0,0,.7);
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+.area_txt{
+    text-align: center;
+    background: #fab919;
+    height: 100%;
+    width: 100%;
+}
+/*----------------------------------------------------responsive CROMOS AREAS----------------------------------------------------*/
+@media(min-width:520px){
+    .panel_areas1{
+       display: flex;
+    }
+    
+    .contenedor_area{
+       margin-bottom: 70px;
+    }
+    .section_titulo_areas{
+        font-size: 30px;
+    }
+}
+@media(min-width:1024px){
+    .contenedor_area{
+        width: 300px;
+        height: 300px;
+    }
+    .section_titulo_areas{
+        font-size: 40px;
+    }
+    .cromo_area{
+         width: 300px;
+        height: 300px;
+    }   
+    .img_area{
+         width: 300px;
+        height: 300px;
+    }
+}
+
+@media(min-width: 1260px){
+     .contenedor_area{
+        width: 400px;
+        height: 300px;
+    }
+    
+    .cromo_area{
+         width: 400px;
+        height: 300px;
+    }   
+    .img_area{
+         width: 400px;
+        height: 300px;
+    }
+}
+
+/*-------------------------------------------ESTILOS DE LOS FORMULARIOS-------------------------------------------*/
+.contenedor_form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: auto;
+    height: auto;
+    background: rgba(0,0,0,.5);
+    border-radius: 6px;
+    border: 2px solid #fff;
+}
+.formulario{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.label_form{
+    font-size: 20px;
+    color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.input{
+    display: block;
+    background: rgba(112,20,8,0.5);
+    color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.returnInicio{
+    text-decoration: none;
+    color: white;
+    display: table;
+    margin: 0;
+}
+.btn_form{
+   /* margin-top: 20px;*/
+    display:table;
+    text-decoration: none;
+    margin-left: 33%;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: rgba(10,9,9,0.85);
+    border-radius: 6px;
+    border: 2px solid #fff;
+}
+
+.btn_form:hover{
+    background: #fab919;
+}
+/*--------------Reponsive Formularios--------------*/
+@media(min-width:520px){
+    .btn_form{
+        margin-left: 35%;
+    }
+    .input{
+        font-size: 18px;
+    }
+}
+@media(min-width:1024px){
+
+    .contenedor_form{
+    width: 40%;
+    margin-left: 30%;    
+   
+    }
+}
+/*------------------------------------------JUEGO---------------------------------------*/
+
+.contenedor_juego{
+    margin-left: 30%;
+}
+
+

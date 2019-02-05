@@ -1,0 +1,59 @@
+﻿@model IEnumerable<PracticaAutenticacion.ViewModel.EstructuraComentarios>
+
+@{
+    ViewBag.Title = "AYUDANOS A MEJORAR";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+ 
+}
+
+<h2>COMENTARIOS</h2>
+
+<p>
+    @Html.ActionLink("  INGRESAR UN NUEVO COMENTARIO", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreComentario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TextoComentario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PuntajeComentario)
+        </th>
+        <th>
+            <!--@Html.DisplayNameFor(model => model.Estado)-->
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Area)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreComentario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TextoComentario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PuntajeComentario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Area)
+        </td>
+        <td>
+           <!-- @Html.ActionLink("Edit", "Edit", new { id =item.IdComentario }) |-->
+            @Html.ActionLink("Ver", "Details", new { id=item.IdComentario }) 
+           <!-- @Html.ActionLink("Delete", "Delete", new { id=item.IdComentario })-->
+        </td>
+    </tr>
+}
+
+</table>

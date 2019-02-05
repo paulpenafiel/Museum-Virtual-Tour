@@ -1,0 +1,60 @@
+﻿@model PracticaAutenticacion.ViewModel.EstructuraComentarios
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--<h2>Details</h2>-->
+
+<div>
+    <h4>Detalle del Comentario</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreComentario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreComentario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TextoComentario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TextoComentario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PuntajeComentario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PuntajeComentario)
+        </dd>
+
+        <dt>
+           <!--@Html.DisplayNameFor(model => model.Estado)--> 
+        </dt>
+
+        <dd>
+            <!--@Html.DisplayFor(model => model.Estado)-->
+            ✔
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Area)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Area)
+        </dd>
+
+    </dl>
+</div>
+<p>
+   <!-- @Html.ActionLink("Edit", "Edit", new { id = Model.IdComentario }) |-->
+    @Html.ActionLink("Regresar", "Index")
+</p>

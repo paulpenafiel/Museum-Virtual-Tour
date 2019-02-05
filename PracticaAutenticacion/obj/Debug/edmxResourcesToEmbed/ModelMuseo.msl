@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelMuseoStoreContainer" CdmEntityContainer="ModelMuseoContainer">
+    <EntitySetMapping Name="ComentarioSet">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelMuseo.Comentario)">
+        <MappingFragment StoreEntitySet="ComentarioSet">
+          <ScalarProperty Name="IdComentario" ColumnName="IdComentario" />
+          <ScalarProperty Name="NombreComentario" ColumnName="NombreComentario" />
+          <ScalarProperty Name="TextoComentario" ColumnName="TextoComentario" />
+          <ScalarProperty Name="FechaComentario" ColumnName="FechaComentario" />
+          <ScalarProperty Name="PuntosComentario" ColumnName="PuntosComentario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EstadoSet">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelMuseo.Estado)">
+        <MappingFragment StoreEntitySet="EstadoSet">
+          <ScalarProperty Name="IdEstado" ColumnName="IdEstado" />
+          <ScalarProperty Name="NombreEstado" ColumnName="NombreEstado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AreaSet">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelMuseo.Area)">
+        <MappingFragment StoreEntitySet="AreaSet">
+          <ScalarProperty Name="IdArea" ColumnName="IdArea" />
+          <ScalarProperty Name="NombreArea" ColumnName="NombreArea" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="AreaComentario" TypeName="ModelMuseo.AreaComentario" StoreEntitySet="ComentarioSet">
+      <EndProperty Name="Area">
+        <ScalarProperty Name="IdArea" ColumnName="Area_IdArea" />
+      </EndProperty>
+      <EndProperty Name="Comentario">
+        <ScalarProperty Name="IdComentario" ColumnName="IdComentario" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="EstadoComentario" TypeName="ModelMuseo.EstadoComentario" StoreEntitySet="ComentarioSet">
+      <EndProperty Name="Estado">
+        <ScalarProperty Name="IdEstado" ColumnName="Estado_IdEstado" />
+      </EndProperty>
+      <EndProperty Name="Comentario">
+        <ScalarProperty Name="IdComentario" ColumnName="IdComentario" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelMuseo.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ModelMuseoStoreContainer">
+    <EntitySet Name="ComentarioSet" EntityType="ModelMuseo.Store.ComentarioSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EstadoSet" EntityType="ModelMuseo.Store.EstadoSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="AreaSet" EntityType="ModelMuseo.Store.AreaSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="AreaComentario" Association="ModelMuseo.Store.AreaComentario">
+      <End Role="Area" EntitySet="AreaSet" />
+      <End Role="Comentario" EntitySet="ComentarioSet" />
+    </AssociationSet>
+    <AssociationSet Name="EstadoComentario" Association="ModelMuseo.Store.EstadoComentario">
+      <End Role="Estado" EntitySet="EstadoSet" />
+      <End Role="Comentario" EntitySet="ComentarioSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ComentarioSet">
+    <Key>
+      <PropertyRef Name="IdComentario" />
+    </Key>
+    <Property Name="IdComentario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreComentario" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TextoComentario" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="FechaComentario" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PuntosComentario" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Area_IdArea" Type="int" Nullable="false" />
+    <Property Name="Estado_IdEstado" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EstadoSet">
+    <Key>
+      <PropertyRef Name="IdEstado" />
+    </Key>
+    <Property Name="IdEstado" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreEstado" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AreaSet">
+    <Key>
+      <PropertyRef Name="IdArea" />
+    </Key>
+    <Property Name="IdArea" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreArea" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="AreaComentario">
+    <End Role="Area" Type="ModelMuseo.Store.AreaSet" Multiplicity="1" />
+    <End Role="Comentario" Type="ModelMuseo.Store.ComentarioSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Area">
+        <PropertyRef Name="IdArea" />
+      </Principal>
+      <Dependent Role="Comentario">
+        <PropertyRef Name="Area_IdArea" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="EstadoComentario">
+    <End Role="Estado" Type="ModelMuseo.Store.EstadoSet" Multiplicity="1" />
+    <End Role="Comentario" Type="ModelMuseo.Store.ComentarioSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="IdEstado" />
+      </Principal>
+      <Dependent Role="Comentario">
+        <PropertyRef Name="Estado_IdEstado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

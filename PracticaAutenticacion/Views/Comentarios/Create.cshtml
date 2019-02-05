@@ -1,0 +1,202 @@
+﻿@model PracticaAutenticacion.Comentario
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Ingresa la información necesaria para registrar tu comentario</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Comentario</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Area.IdArea, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("IdArea", String.Empty)
+                @Html.ValidationMessageFor(model => model.Area.IdArea , "", new { @class = "text-danger" })
+            </div>
+        </div>
+        
+        <div class="form-group">
+          @Html.LabelFor(model => model.NombreComentario, "Ingresa tu nombre" ,htmlAttributes: new { @class = "control-label col-md-2" })
+           
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NombreComentario, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                @Html.ValidationMessageFor(model => model.NombreComentario, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TextoComentario,"Escribe tu comentario", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.TextoComentario, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                @Html.ValidationMessageFor(model => model.TextoComentario, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FechaComentario, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <!--@Html.EditorFor(model => model.FechaComentario, new { htmlAttributes = new { @class = "form-control" } })-->
+                @Html.EditorFor(model => model.FechaComentario, new { htmlAttributes = new { @class = "form-control", @Value = ViewBag.FechaGenerada } })
+                @Html.ValidationMessageFor(model => model.FechaComentario, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+       <!-- <div class="form-group">
+            @Html.LabelFor(model => model.PuntosComentario, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PuntosComentario, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PuntosComentario, "", new { @class = "text-danger" })
+            </div>
+        </div>-->
+        <div class="form-group">
+        <div class="container-fluid">
+            @Html.LabelFor(model => model.PuntosComentario, htmlAttributes: new { @class = "control-label col-md-2"})
+            <div class="col-md-10">
+            <div id="stars-green" data-rating="1"></div>
+                @Html.TextBox("Puntajecomentario", "1", new {id="puntaje", @readonly = "true" })
+                <!--@Html.ValidationMessageFor(model => model.PuntosComentario, "", new { @class = "text-danger" })-->
+            <!--<p id="puntaje">1</p>-->
+        </div>
+        </div>
+         </div>
+        <!--estrellas-->
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" onclick="mifuncionaviso()"/>
+            </div>
+        </div>
+    </div>
+
+   
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+    
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script>var root = '{{root}}';</script>
+<script>
+(function ($) {
+
+    $.fn.rating = function (method, options) {
+        method = method || 'create';
+        // This is the easiest way to have default options.
+        var settings = $.extend({
+            // These are the defaults.
+            limit: 5,
+            value: 0,
+            glyph: "glyphicon-star",
+            coloroff: "gray",
+            coloron: "gold",
+            size: "1.3em",
+            cursor: "pointer",
+            onClick: function () {
+            },
+            endofarray: "idontmatter"
+        }, options);
+        var style = "";
+        style = style + "font-size:" + settings.size + "; ";
+        style = style + "color:" + settings.coloroff + "; ";
+        style = style + "cursor:" + settings.cursor + "; ";
+
+
+        if (method == 'create') {
+            //this.html('');	//junk whatever was there
+
+            //initialize the data-rating property
+            this.each(function () {
+                attr = $(this).attr('data-rating');
+                if (attr === undefined || attr === false) {
+                    $(this).attr('data-rating', settings.value);
+                }
+            });
+
+            //bolt in the glyphs
+            for (var i = 0; i < settings.limit; i++) {
+                this.append('<span data-value="' + (i + 1) + '" class="ratingicon glyphicon ' + settings.glyph + '" style="' + style + '" aria-hidden="true"></span>');
+            }
+
+            $('.ratingicon').mouseover(function () {
+                var starValue = $(this).data('value');
+                var ratingIcons = $('.ratingicon');
+                for (var i = 0; i < starValue; i++) {
+                    $(ratingIcons[i]).css('color', settings.coloron);
+                }
+            }).mouseout(function () {
+                var currentRate = $(this).parent().attr('data-rating');
+                var ratingIcons = $('.ratingicon');
+                for (var i = ratingIcons.length; i >= currentRate; i--) {
+                    $(ratingIcons[i]).css('color', settings.coloroff);
+                }
+            });
+
+            //paint
+            this.each(function () {
+                paint($(this));
+            });
+
+        }
+        if (method == 'set') {
+            this.attr('data-rating', options);
+            this.each(function () {
+                paint($(this));
+            });
+        }
+        if (method == 'get') {
+            return this.attr('data-rating');
+        }
+        //register the click events
+        this.find("span.ratingicon").click(function () {
+            rating = $(this).attr('data-value');
+            $(this).parent().attr('data-rating', rating);
+            paint($(this).parent());
+            var txt = document.getElementById('puntaje');
+            txt.value = rating;
+        });
+        function paint(div) {
+            rating = parseInt(div.attr('data-rating'));
+            div.find("input").val(rating);	//if there is an input in the div lets set it's value
+            div.find("span.ratingicon").each(function () {	//now paint the stars
+
+                var rating = parseInt($(this).parent().attr('data-rating'));
+                var value = parseInt($(this).attr('data-value'));
+                if (value > rating) {
+                    $(this).css('color', settings.coloroff);
+                }
+                else {
+                    $(this).css('color', settings.coloron);
+                }
+            })
+        }
+    };
+}(jQuery));
+
+</script>
+
+<script>
+        $(document).ready(function () {
+            $("#stars-green").rating('create', { coloron: 'green', onClick: function () { alert('rating is ' + this.attr('data-rating')); } });
+        });
+</script>
+
+    <script>
+        function mifuncionaviso() {
+            alert("Su comentario se ha enviado correctamente. Sera revisado previo a su publicación");
+        }
+    </script>
+}

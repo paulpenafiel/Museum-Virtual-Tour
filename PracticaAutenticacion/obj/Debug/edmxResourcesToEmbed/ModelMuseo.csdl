@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ModelMuseo" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ModelMuseoContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ComentarioSet" EntityType="ModelMuseo.Comentario" />
+    <EntitySet Name="EstadoSet" EntityType="ModelMuseo.Estado" />
+    <EntitySet Name="AreaSet" EntityType="ModelMuseo.Area" />
+    <AssociationSet Name="AreaComentario" Association="ModelMuseo.AreaComentario">
+      <End Role="Area" EntitySet="AreaSet" />
+      <End Role="Comentario" EntitySet="ComentarioSet" />
+    </AssociationSet>
+    <AssociationSet Name="EstadoComentario" Association="ModelMuseo.EstadoComentario">
+      <End Role="Estado" EntitySet="EstadoSet" />
+      <End Role="Comentario" EntitySet="ComentarioSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Comentario">
+    <Key>
+      <PropertyRef Name="IdComentario" />
+    </Key>
+    <Property Name="IdComentario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreComentario" Type="String" Nullable="false" />
+    <Property Name="TextoComentario" Type="String" Nullable="false" />
+    <Property Name="FechaComentario" Type="String" Nullable="false" />
+    <Property Name="PuntosComentario" Type="String" Nullable="false" />
+    <NavigationProperty Name="Area" Relationship="ModelMuseo.AreaComentario" FromRole="Comentario" ToRole="Area" />
+    <NavigationProperty Name="Estado" Relationship="ModelMuseo.EstadoComentario" FromRole="Comentario" ToRole="Estado" />
+  </EntityType>
+  <EntityType Name="Estado">
+    <Key>
+      <PropertyRef Name="IdEstado" />
+    </Key>
+    <Property Name="IdEstado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreEstado" Type="String" Nullable="false" />
+    <NavigationProperty Name="Comentario" Relationship="ModelMuseo.EstadoComentario" FromRole="Estado" ToRole="Comentario" />
+  </EntityType>
+  <EntityType Name="Area">
+    <Key>
+      <PropertyRef Name="IdArea" />
+    </Key>
+    <Property Name="IdArea" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreArea" Type="String" Nullable="false" />
+    <NavigationProperty Name="Comentario" Relationship="ModelMuseo.AreaComentario" FromRole="Area" ToRole="Comentario" />
+  </EntityType>
+  <Association Name="AreaComentario">
+    <End Type="ModelMuseo.Area" Role="Area" Multiplicity="1" />
+    <End Type="ModelMuseo.Comentario" Role="Comentario" Multiplicity="*" />
+  </Association>
+  <Association Name="EstadoComentario">
+    <End Type="ModelMuseo.Estado" Role="Estado" Multiplicity="1" />
+    <End Type="ModelMuseo.Comentario" Role="Comentario" Multiplicity="*" />
+  </Association>
+</Schema>
